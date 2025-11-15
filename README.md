@@ -12,7 +12,7 @@ Os protótipos foram desenvolvidos em **Figma**. Cada caso de uso possui sua pas
 - `tela-principal.png` — formulário inicial (campos)
 - `tela-sucesso.png` — feedback de sucesso após submissão
 - `tela-cpf-invalido.png` / `tela-cnpj-invalido.png` — validação de documento
-- `tela-cpf-ja_cadastrado.png` / `tela-cnpj-ja-cadastrado.png` — duplicidade
+- `tela-cpf-ja-cadastrado.png` / `tela-cnpj-ja-cadastrado.png` — duplicidade
 - `tela-acesso-negado.png` — quando o usuário não possui permissão
 
 **Observação:** a tela de **Cadastro de Aluno** contém todos os campos de pessoa física + campos acadêmicos (matrícula, curso, data de ingresso, status).
